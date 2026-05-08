@@ -36,8 +36,8 @@ I want to see an end to the era of pompfen that are cumbersome to wield, slow to
 
 ### Printing Notes
 - All parts have only been tested in the US with [SirayaTech TPU Filament 85A](https://siraya.tech/products/flex-tpu-85a-filament)
-- All parts should be printed in the realm of 17-18% infill (gyroid).
-- Pommels should have an infill modifier in a cone from the base of the core channel to the base of the pommel, at 30% infill
+- All parts should be printed in the realm of 17-18% infill (gyroid)
+- Pommels should have an infill modifier in a cone from the base of the core channel to the base of the pommel, at 30% infill. Make your own modifier volume or [use the one provided](slicer_modifiers/pommel_base_30percent_infill.stl)
 
 ### Part Credits
 - Pommels: Designed by [Thalia Wood](https://github.com/polygeist111)
