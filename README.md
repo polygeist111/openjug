@@ -15,9 +15,11 @@ A compiled resource for parametrically modelled (OpenSCAD) pompfen components fo
 I want to see an end to the era of pompfen that are cumbersome to wield, slow to repair, and filled with wildly excess amounts of adhesive. I undertook an effort to create modularized pompfen that are simultaneously simple to customize, standardizable, affordable, and incredibly efficient to assemble or strip. **NOTE**: There is an obvious equipment hurdle. You need access to a 3D printer that can print TPU, and preferably you'd also be using Reid Dye's [coring jig](https://www.printables.com/model/1233976-pompf-coring-jig/files) or a variant for your blades. 
 
 > [!TIP]
-> Addendum: Why this, instead of Reid's system?
-> It's up to you! This doesn't exist in response to or competition with Reid's system, and in fact requires similar equipment. 
+> You may be asking: why this, instead of Reid's system?
+>
+> It's up to you! This doesn't exist in response to or competition with Reid's system, and in fact requires similar equipment.\
 > We simply were inspired in similar directions at the same time. I highly recommend checking out his work at one of the above links, it's quite impressive.
+>
 > So what's different?
 > - All files are different
 > - Reid's system is comprehensive, covering 3D parts, blades, covers, and everything else. Every material is specialty
